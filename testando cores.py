@@ -21,7 +21,7 @@ while True:
 
     color = "Undefined"
     if saturation_value<80:
-        color = "Branco"
+        color = "Cinza"
     elif value<40:
         color = "Preto"
     elif hue_value<5:
